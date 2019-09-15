@@ -17,4 +17,6 @@ require('./app/routing/htmlRoutes')(app);
 
 app.listen(port, () => console.log('Listening on port %s', port));
 
+// could not get localhost to pull up site, I had it listening. 
+
 
